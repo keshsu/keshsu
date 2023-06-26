@@ -39,7 +39,7 @@ I'm always interested in connecting with like-minded individuals and exploring n
 - :email: Email: [keshab.bhadel.5@gmail.com](mailto:keshab.bhadel.5@gmail.com)
 - :briefcase: LinkedIn: [Keshav Bhadel](https://www.linkedin.com/in/keshav-bhadel-a36176137/)
 - :iphone: WhatsApp: [+9802320967](https://wa.me/9802320967)
-- :globe_with_meridians: Personal website: [Keshav Bhadel](http://keshabbhadel.com.np/)
+- :globe_with_meridians: Personal website: [https://keshabbhadel.com.np/](http://keshabbhadel.com.np/)
 
 Feel free to get in touch if you have any questions, collaboration ideas, or just want to say hello!
 
