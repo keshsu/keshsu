@@ -38,7 +38,3 @@ I'm always interested in connecting with like-minded individuals and exploring n
 - :globe_with_meridians: Personal website: [https://keshabbhadel.com.np/](http://keshabbhadel.com.np/)
 
 Feel free to get in touch if you have any questions, collaboration ideas, or just want to say hello!
-
-## License
-
-This repository and its contents are open-source. You can find the license information in the [LICENSE](LICENSE) file.
