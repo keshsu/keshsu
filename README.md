@@ -1,7 +1,3 @@
-# My Profile
-
-Welcome to my profile! I'm Keshav Bhadel, and I'm passionate about Full Stack Development. I believe in continuous learning and exploring new technologies. This README.md file serves as an introduction to who I am, what I do, and what you can expect from my work.
-
 ## About Me
 
 Hi i am keshav, working as a Full stack developer on django and react JS. Bringing more than 3 years of experience leading website design projects, including gathering user requirements, developing a quality code, creating mockups and enhancing designs. Focused on creating clean, robust code with exceptional security. Experienced working with teams to produce impactful, leading-edge websites that engage customers and deliver business results. Well-versed in design standards and user preferences and highly effective at developing and standardizing designs according to company brand and objectives. I enjoy solving complex problems and finding innovative solutions. Besides work, I love playing sports, travel new places, capture photographs as they provide me an inspiration to make creative outlet.
