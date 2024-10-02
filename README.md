@@ -1,13 +1,13 @@
 ## About Me
 
-Hi i am keshav, working as a Full stack developer on django and react JS. Bringing more than 3 years of experience leading website design projects, including gathering user requirements, developing a quality code, creating mockups and enhancing designs. Focused on creating clean, robust code with exceptional security. Experienced working with teams to produce impactful, leading-edge websites that engage customers and deliver business results. Well-versed in design standards and user preferences and highly effective at developing and standardizing designs according to company brand and objectives. I enjoy solving complex problems and finding innovative solutions. Besides work, I love playing sports, travel new places, capture photographs as they provide me an inspiration to make creative outlet.
+Hi, Starting my professional IT career since 2019, i have an experience on leading website design projects, including gathering user requirements, developing a quality code, creating mockups and enhancing designs. Focused on creating clean, robust code with exceptional security. Experienced working with teams to produce impactful, leading-edge websites that engage customers and deliver business results. Well-versed in design standards and user preferences and highly effective at developing and standardizing designs according to company brand and objectives. I enjoy solving complex problems and finding innovative solutions.
 
 ## Skills
 
 Here are some of the key skills I possess:
 
 - :rocket: Languages and Scripts: Javascript, Typescript, Python, HTML5, CSS3, JQuery, PHP.
-- :computer: Frameworks and Libraries:: ReactJs, Redux, Bootstrap, SASS, Django, Laravel, Express, Node.
+- :computer: Frameworks and Libraries:: ReactJs, Redux, Next, Vue, Bootstrap, Tailwind, SASS, Django, Laravel, Express, Node.
 - :octocat: VCS: Git, Github, Bitbucket, Gitlab.
 - :cloud: AWS services: S3, Amplify.
 - :busts_in_silhouette: Collaboration: Trello, Slack, Google Workspace.
@@ -22,7 +22,7 @@ These are just a few examples, and I continue to expand my skillset by staying u
 I have worked on several exciting projects throughout my career. Here are a few notable ones:
 
 1. **KIKISAPO**: Kikisapo is a service that provides easy-to-understand instructions on how to properly use medical devices. We live in an era where treatment and diagnosis are impossible without medical equipment. From old machines to new machines in the hospital Various medical devices are prevalent. Check them on: https://kikisapo.jp/app
-2. **Civil Laghubitta**: Civil Laghubitta Bittiya Sanstha Limited, a subsidiary company of Himalayan Bank Limited was incorporated as a public limited company on 1st Chaitra 2067 (15 March 2011) under the Companies Act of Nepal. Check them on:http://civillaghubitta.com/
+2. **Himalayan Laghubitta**: Himalayan Laghubitta Bittiya Sanstha Limited, a subsidiary company of Himalayan Bank Limited was incorporated as a public limited company on 1st Chaitra 2067 (15 March 2011) under the Companies Act of Nepal. Check them on:http://himalayanlaghubitta.com/
 3. **YKP Lead Nepal**: YKP LEAD Nepal is a network led by young people for young people that empowers through leadership, education, advocacy and development for young people. The network works to empower young people living with HIV and the young key population from the ages of 18–29 at the grassroots level in Nepal. It is assembled by the young people who use drugs, living with HIV/AIDS and HCV, young transgender people and young sex workers bringing unity from the diversified voices and building a common platform to ensure and learn on issues affecting their lives for dialogue and action. Check them on: https://ykpleadnepal.org/
 4. **Study Xperia**: Study Xperia is aiming to transform your Study Experience and offer you an incredible journey abroad. Check them on: https://studyxperia.com/
 
